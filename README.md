@@ -27,7 +27,9 @@ This is an alphabetical list of libraries for Android development, the majority 
 * [Image Processing](#image-processing)
 * [Camera](#camera)
 * [Security](#security)
+* [Media](#media)
 * [Showcases](#showcases)
+* [Maps](#maps)
 * [Other](#other)
 
 ## Networking
@@ -39,7 +41,6 @@ Name | Repository | License
 [OkHttp](http://square.github.io/okhttp/) | https://github.com/square/okhttp | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Retrofit](http://square.github.io/retrofit/) | https://github.com/square/retrofit | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [RxNetty](https://github.com/ReactiveX/RxNetty) | https://github.com/ReactiveX/RxNetty | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[Volley](https://android.googlesource.com/platform/frameworks/volley) | https://android.googlesource.com/platform/frameworks/volley | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Basic HTTP Client for Java](https://code.google.com/p/basic-http-client/) | https://code.google.com/p/basic-http-client/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Image Loader
@@ -49,7 +50,6 @@ Name | Repository | License
 [ion](https://github.com/koush/ion) | https://github.com/koush/ion | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Picasso](http://square.github.io/picasso) | https://github.com/square/picasso | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) | https://github.com/nostra13/Android-Universal-Image-Loader | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[Volley](https://android.googlesource.com/platform/frameworks/volley) | https://android.googlesource.com/platform/frameworks/volley | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Fresco](http://frescolib.org) | https://github.com/facebook/fresco | [BSD License](https://github.com/facebook/fresco/blob/master/LICENSE)
 ## Drawable
 Name | Repository | License
@@ -91,6 +91,9 @@ Name | Repository | License
 [Shillelagh](https://github.com/pieces029/shillelagh) | https://github.com/pieces029/shillelagh | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [SQLBrite](https://github.com/square/sqlbrite) | https://github.com/square/sqlbrite | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Ollie](https://github.com/pardom/Ollie) | https://github.com/pardom/Ollie | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[TriOrm](https://github.com/HendrixString/Android-TriOrm) | https://github.com/HendrixString/Android-TriOrm | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
+
 
 ## NoSQL
 Name | Repository | License
@@ -118,6 +121,8 @@ Name | Repository | License
 --- | --- | --- | ---
 [Android Priority Job Queue](https://github.com/path/android-priority-jobqueue) | https://github.com/path/android-priority-jobqueue | [MIT](http://opensource.org/licenses/MIT)
 [Tape](http://square.github.io/tape/) | https://github.com/square/tape | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Zorn](https://github.com/HendrixString/Android-Zorn) | https://github.com/HendrixString/Android-Zorn | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
 
 ## Fonts
 Name | Repository | License
@@ -135,6 +140,7 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | --- | ---
 [AutoParcel](https://github.com/frankiesardo/auto-parcel) | https://github.com/frankiesardo/auto-parcel | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Akatsuki](https://github.com/tom91136/Akatsuki) | https://github.com/tom91136/Akatsuki | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Icepick](https://github.com/frankiesardo/icepick) | https://github.com/frankiesardo/icepick | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Parceler](https://github.com/johncarl81/parceler) | https://github.com/johncarl81/parceler | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
@@ -176,6 +182,11 @@ Name | Repository | License
 --- | --- | --- | ---
 [Grab'n Run](https://github.com/lukeFalsina/Grab-n-Run) | https://github.com/lukeFalsina/Grab-n-Run | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
+## Media
+Name | Repository | License
+--- | --- | --- | ---
+[PdfMyXml](https://github.com/HendrixString/Android-PdfMyXml) | https://github.com/HendrixString/Android-PdfMyXml | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
 Showcases
 ======================
 Name | Repository | License
@@ -191,6 +202,14 @@ Name | Repository | License
 [Talon-for-Twitter](https://github.com/klinker24/Talon-for-Twitter) | https://github.com/klinker24/Talon-for-Twitter | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Telecine](https://github.com/JakeWharton/Telecine) | https://github.com/JakeWharton/Telecine | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [u2020](https://github.com/JakeWharton/u2020) | https://github.com/JakeWharton/u2020 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
+Maps
+======================
+Name | Repository | License
+--- | --- | --- | ---
+[GraphHopper](https://graphhopper.com) | https://github.com/graphhopper/graphhopper | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Mapsforge](https://github.com/mapsforge/mapsforge) | https://github.com/mapsforge/mapsforge | [LGPL](https://www.gnu.org/licenses/lgpl.html)
+
 
 Other
 ======================
